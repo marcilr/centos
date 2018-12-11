@@ -1,0 +1,57 @@
+centos.txt
+Created Tue Dec 11 09:25:43 AST 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+CentOS (/ˈsɛntɒs/, from Community Enterprise Operating System) is a
+Linux distribution that provides a free, enterprise-class,
+community-supported computing platform functionally compatible with
+its upstream source, Red Hat Enterprise Linux (RHEL).[5][6] In
+January 2014, CentOS announced the official joining with Red Hat
+while staying independent from RHEL,[7] under a new CentOS governing
+board.[8][9]
+
+The first CentOS release in May 2004, numbered as CentOS version 2,
+was forked from RHEL version 2.1AS.[1] Since the release of version 7.0,
+CentOS officially supports only the x86-64 architecture, while versions
+older than 7.0-1406 also support IA-32 with Physical Address Extension
+(PAE).  As of December 2015, AltArch releases of CentOS 7 are available
+for the IA-32 architecture, Power architecture, and for the ARMv7hl and
+AArch64 variants of the ARM architecture.[10][11]
+--https://en.wikipedia.org/wiki/CentOS
+
+
+Links
+=====
+[1] John Newbigin (2004-05-14). "CentOS-2 Final finally released".
+centos.org. Retrieved 2008-06-01.
+http://lists.centos.org/pipermail/centos/2004-May/000153.html
+
+[5] "Frequently Asked Questions about CentOS in general:
+1. What is CentOS Linux?". centos.org. 2014-10-12. Retrieved 2014-11-02.
+http://wiki.centos.org/FAQ/General#head-4b2dd1ea6dcc1243d6e3886dc3e5d1ebb252c194
+
+[6]  "Red hat + CentOS". Red Hat. Retrieved 2014-04-15.
+https://community.redhat.com/centos-faq/
+https://en.wikipedia.org/wiki/Red_Hat
+
+[8]  "CentOS Governance". centos.org. 2014. Retrieved 2014-01-08.
+https://www.centos.org/about/governance/
+
+[9] Karanbir Singh (2014-12-09). "Karanbir Singh: CentOS Linux: A Continuously
+integrating platform". youtube.com. Retrieved 2016-06-04.
+https://www.youtube.com/watch?v=jhHtpdQQEPY
+
+[10] Singh, Karanbir (2015-12-19). "[CentOS-announce] Release for CentOS AltArch 7 (1511)".
+Retrieved 2015-12-24.
+https://lists.centos.org/pipermail/centos-announce/2015-December/021556.html
+
+[11] Perrin, Jim (2015-08-04). "[CentOS-announce] Release for CentOS 7 on AArch64".
+Retrieved 2015-11-01.
+https://lists.centos.org/pipermail/centos-announce/2015-August/021275.html
+
+CentOS
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/CentOS
+
+
