@@ -1,0 +1,13 @@
+links.txt
+Created Tue Dec 11 09:35:45 AST 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+CentOS related links
+
+
+Links
+=====
+CentOS
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/CentOS
