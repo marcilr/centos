@@ -9,5 +9,11 @@ CentOS related links
 Links
 =====
 CentOS
+https://www.centos.org/
+
+CentOS
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/CentOS
+
+Download CentOS
+https://www.centos.org/download/
